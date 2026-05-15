@@ -70,6 +70,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Khanal-964/Leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Khanal-964/Leetcode/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Khanal-964/Leetcode/tree/master/1748-sum-of-unique-elements) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Khanal-964/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
