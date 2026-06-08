@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Khanal-964/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/Khanal-964/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khanal-964/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Khanal-964/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khanal-964/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -43,6 +44,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Khanal-964/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Khanal-964/Leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
