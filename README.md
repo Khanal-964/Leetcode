@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Khanal-964/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Khanal-964/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Khanal-964/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Khanal-964/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Khanal-964/Leetcode/tree/master/0231-power-of-two) |
@@ -14,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Khanal-964/Leetcode/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Khanal-964/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Khanal-964/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Khanal-964/Leetcode/tree/master/0137-single-number-ii) |
@@ -78,6 +80,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Khanal-964/Leetcode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khanal-964/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Khanal-964/Leetcode/tree/master/0867-transpose-matrix) |
 ## String
