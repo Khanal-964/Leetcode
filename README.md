@@ -26,6 +26,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Khanal-964/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khanal-964/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Khanal-964/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Khanal-964/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0494-target-sum](https://github.com/Khanal-964/Leetcode/tree/master/0494-target-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Khanal-964/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Khanal-964/Leetcode/tree/master/0867-transpose-matrix) |
@@ -42,6 +43,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khanal-964/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khanal-964/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Khanal-964/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Khanal-964/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Khanal-964/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Khanal-964/Leetcode/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Khanal-964/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -62,6 +64,7 @@
 | [0217-contains-duplicate](https://github.com/Khanal-964/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Khanal-964/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Khanal-964/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Khanal-964/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1748-sum-of-unique-elements](https://github.com/Khanal-964/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
@@ -69,12 +72,14 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khanal-964/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Khanal-964/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Khanal-964/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Khanal-964/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khanal-964/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Khanal-964/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Khanal-964/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Khanal-964/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khanal-964/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
