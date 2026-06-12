@@ -69,6 +69,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Khanal-964/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khanal-964/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Khanal-964/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Khanal-964/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Khanal-964/Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Khanal-964/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Khanal-964/Leetcode/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Khanal-964/Leetcode/tree/master/0494-target-sum) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Khanal-964/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
