@@ -13,6 +13,7 @@
 | [0367-valid-perfect-square](https://github.com/Khanal-964/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Khanal-964/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Khanal-964/Leetcode/tree/master/0507-perfect-number) |
+| [2235-add-two-integers](https://github.com/Khanal-964/Leetcode/tree/master/2235-add-two-integers) |
 ## Array
 |  |
 | ------- |
