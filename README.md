@@ -34,6 +34,7 @@
 | [0867-transpose-matrix](https://github.com/Khanal-964/Leetcode/tree/master/0867-transpose-matrix) |
 | [0941-valid-mountain-array](https://github.com/Khanal-964/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khanal-964/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Khanal-964/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/Khanal-964/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Binary Search
 |  |
@@ -49,6 +50,7 @@
 | [0367-valid-perfect-square](https://github.com/Khanal-964/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Khanal-964/Leetcode/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Khanal-964/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Khanal-964/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Khanal-964/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Khanal-964/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khanal-964/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Khanal-964/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/Khanal-964/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
@@ -77,6 +80,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Khanal-964/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khanal-964/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khanal-964/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Khanal-964/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +88,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Khanal-964/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khanal-964/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khanal-964/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Khanal-964/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
