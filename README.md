@@ -19,6 +19,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Khanal-964/Leetcode/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Khanal-964/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/Khanal-964/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Khanal-964/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Khanal-964/Leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khanal-964/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -124,6 +125,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Khanal-964/Leetcode/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/Khanal-964/Leetcode/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
