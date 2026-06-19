@@ -10,6 +10,7 @@
 | [0069-sqrtx](https://github.com/Khanal-964/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Khanal-964/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Khanal-964/Leetcode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Khanal-964/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0367-valid-perfect-square](https://github.com/Khanal-964/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Khanal-964/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Khanal-964/Leetcode/tree/master/0507-perfect-number) |
@@ -72,6 +73,7 @@
 | [0217-contains-duplicate](https://github.com/Khanal-964/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Khanal-964/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Khanal-964/Leetcode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/Khanal-964/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Khanal-964/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khanal-964/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/Khanal-964/Leetcode/tree/master/0645-set-mismatch) |
@@ -138,6 +140,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/Khanal-964/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Khanal-964/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0264-ugly-number-ii](https://github.com/Khanal-964/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0494-target-sum](https://github.com/Khanal-964/Leetcode/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
@@ -147,4 +150,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Khanal-964/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Khanal-964/Leetcode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
