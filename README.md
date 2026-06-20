@@ -40,6 +40,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Khanal-964/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Khanal-964/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/Khanal-964/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1991-find-the-middle-index-in-array](https://github.com/Khanal-964/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,4 +155,8 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Khanal-964/Leetcode/tree/master/0264-ugly-number-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/Khanal-964/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
