@@ -9,35 +9,36 @@ class Solution {
 
         while (top <= bottom && left <= right) {
 
-            // left -> right
-            for (int col = left; col <= right; col++) {
-                result.add(matrix[top][col]);
+            // left to right
+
+            for(int cols=left;cols<=right;cols++){
+                result.add(matrix[top][cols]);
+
             }
             top++;
+        // top to bottom
 
-            // top -> bottom
-            for (int row = top; row <= bottom; row++) {
-                result.add(matrix[row][right]);
-            }
-            right--;
+        for(int row=top;row<=bottom;row++){
+            result.add(matrix[row][right]);
+        }
+        right--;
 
-            // right -> left
-            if (top <= bottom) {
-                for (int col = right; col >= left; col--) {
-                    result.add(matrix[bottom][col]);
-                }
-                bottom--;
+        //right to left
+        if(top <= bottom){
+            for(int cols=right;cols>=left;cols--){
+                result.add(matrix[bottom][cols]);
             }
-
-            // bottom -> top
-            if (left <= right) {
-                for (int row = bottom; row >= top; row--) {
-                    result.add(matrix[row][left]);
-                }
-                left++;
-            }
+            bottom--;
         }
 
+        //bottom to top
+        if(left<=right){
+            for(int row=bottom;row>=top;row--){
+                result.add(matrix[row][left]);
+            }
+            left++;
+        }
+        }
         return result;
     }
 }
