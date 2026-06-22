@@ -43,6 +43,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Khanal-964/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/Khanal-964/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1991-find-the-middle-index-in-array](https://github.com/Khanal-964/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2951-find-the-peaks](https://github.com/Khanal-964/Leetcode/tree/master/2951-find-the-peaks) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,4 +168,8 @@
 |  |
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/Khanal-964/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/Khanal-964/Leetcode/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
