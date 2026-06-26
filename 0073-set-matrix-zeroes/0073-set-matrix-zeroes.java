@@ -3,7 +3,7 @@ class Solution {
         int r=matrix.length;
         int c=matrix[0].length;
         boolean[] row= new boolean[r];
-        boolean[] cols = new boolean[c];
+        boolean[] cols=new boolean[c];
 
         for(int i=0;i<r;i++){
             for(int j=0;j<c;j++){
@@ -13,11 +13,10 @@ class Solution {
                 }
             }
         }
-
         for(int i=0;i<r;i++){
             for(int j=0;j<c;j++){
                 if(row[i] || cols[j]){
-                    matrix[i][j]=0;
+                    matrix[i][j] = 0;
                 }
             }
         }
