@@ -40,6 +40,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Khanal-964/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khanal-964/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0494-target-sum](https://github.com/Khanal-964/Leetcode/tree/master/0494-target-sum) |
+| [0575-distribute-candies](https://github.com/Khanal-964/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Khanal-964/Leetcode/tree/master/0645-set-mismatch) |
 | [0766-toeplitz-matrix](https://github.com/Khanal-964/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Khanal-964/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -92,6 +93,7 @@
 | [0264-ugly-number-ii](https://github.com/Khanal-964/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Khanal-964/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khanal-964/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0575-distribute-candies](https://github.com/Khanal-964/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Khanal-964/Leetcode/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Khanal-964/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/Khanal-964/Leetcode/tree/master/1748-sum-of-unique-elements) |
