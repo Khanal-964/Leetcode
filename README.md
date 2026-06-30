@@ -99,6 +99,7 @@
 | [0264-ugly-number-ii](https://github.com/Khanal-964/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Khanal-964/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khanal-964/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Khanal-964/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Khanal-964/Leetcode/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/Khanal-964/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Khanal-964/Leetcode/tree/master/0645-set-mismatch) |
@@ -156,6 +157,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Khanal-964/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Khanal-964/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Khanal-964/Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Khanal-964/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Khanal-964/Leetcode/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/Khanal-964/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Sliding Window
@@ -165,6 +167,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Khanal-964/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/Khanal-964/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Stack
 |  |
@@ -217,4 +220,8 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Khanal-964/Leetcode/tree/master/0680-valid-palindrome-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Khanal-964/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
