@@ -47,6 +47,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khanal-964/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Khanal-964/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0494-target-sum](https://github.com/Khanal-964/Leetcode/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Khanal-964/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Khanal-964/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Khanal-964/Leetcode/tree/master/0645-set-mismatch) |
 | [0766-toeplitz-matrix](https://github.com/Khanal-964/Leetcode/tree/master/0766-toeplitz-matrix) |
@@ -110,6 +111,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Khanal-964/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Khanal-964/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Khanal-964/Leetcode/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/Khanal-964/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Khanal-964/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Khanal-964/Leetcode/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Khanal-964/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -236,6 +238,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Khanal-964/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Khanal-964/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Khanal-964/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Khanal-964/Leetcode/tree/master/1732-find-the-highest-altitude) |
