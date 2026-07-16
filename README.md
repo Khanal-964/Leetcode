@@ -103,6 +103,7 @@
 | [0049-group-anagrams](https://github.com/Khanal-964/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Khanal-964/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Khanal-964/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Khanal-964/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Khanal-964/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Khanal-964/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Khanal-964/Leetcode/tree/master/0242-valid-anagram) |
@@ -183,6 +184,7 @@
 | [0125-valid-palindrome](https://github.com/Khanal-964/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Khanal-964/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Khanal-964/Leetcode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Khanal-964/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Khanal-964/Leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/Khanal-964/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Khanal-964/Leetcode/tree/master/0344-reverse-string) |
