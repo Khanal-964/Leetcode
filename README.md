@@ -18,6 +18,7 @@
 | [0507-perfect-number](https://github.com/Khanal-964/Leetcode/tree/master/0507-perfect-number) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Khanal-964/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2235-add-two-integers](https://github.com/Khanal-964/Leetcode/tree/master/2235-add-two-integers) |
+| [2485-find-the-pivot-integer](https://github.com/Khanal-964/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Array
 |  |
 | ------- |
@@ -254,6 +255,7 @@
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Khanal-964/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Khanal-964/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Khanal-964/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/Khanal-964/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Enumeration
 |  |
 | ------- |
