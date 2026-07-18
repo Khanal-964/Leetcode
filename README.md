@@ -13,6 +13,7 @@
 | [0231-power-of-two](https://github.com/Khanal-964/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Khanal-964/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Khanal-964/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0319-bulb-switcher](https://github.com/Khanal-964/Leetcode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/Khanal-964/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Khanal-964/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Khanal-964/Leetcode/tree/master/0507-perfect-number) |
@@ -275,4 +276,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Khanal-964/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Khanal-964/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
