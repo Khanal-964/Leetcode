@@ -54,6 +54,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Khanal-964/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Khanal-964/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Khanal-964/Leetcode/tree/master/0645-set-mismatch) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Khanal-964/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/Khanal-964/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Khanal-964/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Khanal-964/Leetcode/tree/master/0867-transpose-matrix) |
@@ -86,6 +87,7 @@
 | [0367-valid-perfect-square](https://github.com/Khanal-964/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Khanal-964/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Khanal-964/Leetcode/tree/master/0441-arranging-coins) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Khanal-964/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Khanal-964/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Khanal-964/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Khanal-964/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
