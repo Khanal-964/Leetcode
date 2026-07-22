@@ -13,6 +13,7 @@
 | [0231-power-of-two](https://github.com/Khanal-964/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Khanal-964/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Khanal-964/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Khanal-964/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Khanal-964/Leetcode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/Khanal-964/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Khanal-964/Leetcode/tree/master/0415-add-strings) |
@@ -45,6 +46,7 @@
 | [0217-contains-duplicate](https://github.com/Khanal-964/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Khanal-964/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khanal-964/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Khanal-964/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Khanal-964/Leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/Khanal-964/Leetcode/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/Khanal-964/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -84,6 +86,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Khanal-964/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khanal-964/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khanal-964/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Khanal-964/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Khanal-964/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khanal-964/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Khanal-964/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -99,6 +102,7 @@
 | [0136-single-number](https://github.com/Khanal-964/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Khanal-964/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Khanal-964/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Khanal-964/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Khanal-964/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Khanal-964/Leetcode/tree/master/0645-set-mismatch) |
 ## Recursion
@@ -117,6 +121,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Khanal-964/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Khanal-964/Leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Khanal-964/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Khanal-964/Leetcode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Khanal-964/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/Khanal-964/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khanal-964/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -157,6 +162,7 @@
 | [0179-largest-number](https://github.com/Khanal-964/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Khanal-964/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Khanal-964/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Khanal-964/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Khanal-964/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khanal-964/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Khanal-964/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
