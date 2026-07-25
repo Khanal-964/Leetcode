@@ -114,6 +114,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Khanal-964/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Khanal-964/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Khanal-964/Leetcode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
@@ -319,5 +320,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Khanal-964/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Khanal-964/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
