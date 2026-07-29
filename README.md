@@ -21,6 +21,7 @@
 | [0507-perfect-number](https://github.com/Khanal-964/Leetcode/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Khanal-964/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Khanal-964/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1103-distribute-candies-to-people](https://github.com/Khanal-964/Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Khanal-964/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2235-add-two-integers](https://github.com/Khanal-964/Leetcode/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/Khanal-964/Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -248,6 +249,7 @@
 | [0289-game-of-life](https://github.com/Khanal-964/Leetcode/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/Khanal-964/Leetcode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/Khanal-964/Leetcode/tree/master/0867-transpose-matrix) |
+| [1103-distribute-candies-to-people](https://github.com/Khanal-964/Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1920-build-array-from-permutation](https://github.com/Khanal-964/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Khanal-964/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
