@@ -78,6 +78,7 @@
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Khanal-964/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Khanal-964/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Khanal-964/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Khanal-964/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Khanal-964/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Khanal-964/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Khanal-964/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
