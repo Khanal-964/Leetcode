@@ -83,6 +83,7 @@
 | [1920-build-array-from-permutation](https://github.com/Khanal-964/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Khanal-964/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Khanal-964/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2784-check-if-array-is-good](https://github.com/Khanal-964/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2951-find-the-peaks](https://github.com/Khanal-964/Leetcode/tree/master/2951-find-the-peaks) |
 ## Binary Search
 |  |
@@ -149,6 +150,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Khanal-964/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Khanal-964/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/Khanal-964/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2784-check-if-array-is-good](https://github.com/Khanal-964/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Khanal-964/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Khanal-964/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Khanal-964/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2784-check-if-array-is-good](https://github.com/Khanal-964/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Divide and Conquer
 |  |
 | ------- |
