@@ -83,6 +83,7 @@
 | [1920-build-array-from-permutation](https://github.com/Khanal-964/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Khanal-964/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Khanal-964/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Khanal-964/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2784-check-if-array-is-good](https://github.com/Khanal-964/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2951-find-the-peaks](https://github.com/Khanal-964/Leetcode/tree/master/2951-find-the-peaks) |
 ## Binary Search
@@ -210,6 +211,7 @@
 | [0766-toeplitz-matrix](https://github.com/Khanal-964/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Khanal-964/Leetcode/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Khanal-964/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Khanal-964/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## String
 |  |
 | ------- |
