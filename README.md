@@ -354,4 +354,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Khanal-964/Leetcode/tree/master/0070-climbing-stairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Khanal-964/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
