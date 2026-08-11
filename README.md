@@ -90,6 +90,7 @@
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Khanal-964/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2784-check-if-array-is-good](https://github.com/Khanal-964/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2951-find-the-peaks](https://github.com/Khanal-964/Leetcode/tree/master/2951-find-the-peaks) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Khanal-964/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Khanal-964/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/Khanal-964/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2784-check-if-array-is-good](https://github.com/Khanal-964/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Khanal-964/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Khanal-964/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Khanal-964/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2784-check-if-array-is-good](https://github.com/Khanal-964/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Khanal-964/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
