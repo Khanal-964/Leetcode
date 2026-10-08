@@ -89,6 +89,7 @@
 | [1920-build-array-from-permutation](https://github.com/Khanal-964/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Khanal-964/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Khanal-964/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/Khanal-964/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Khanal-964/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2784-check-if-array-is-good](https://github.com/Khanal-964/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2951-find-the-peaks](https://github.com/Khanal-964/Leetcode/tree/master/2951-find-the-peaks) |
@@ -320,6 +321,7 @@
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Khanal-964/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Khanal-964/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Khanal-964/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/Khanal-964/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2485-find-the-pivot-integer](https://github.com/Khanal-964/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Enumeration
 |  |
